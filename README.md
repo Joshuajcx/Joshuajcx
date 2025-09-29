@@ -2,7 +2,7 @@
 
 ### 💻 Fullstack Developer | 📱 React Native | 🎮 Unity Game Dev | ☁️ Cloud Enthusiast  
 
-![Banner](https://i.ibb.co/7WBNW2g/banner-github.png) <!-- Puedes cambiarlo por tu propio banner -->
+![Banner](https://miro.medium.com/v2/0*rLm7FEGkXKcj1iQ0.jpeg)
 
 ---
 
