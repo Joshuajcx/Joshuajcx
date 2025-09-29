@@ -59,10 +59,8 @@
 
 ---
 
-## 🌍 Conéctate conmigo
-- [💼 LinkedIn](https://www.linkedin.com/)  
-- [🌐 Portfolio](https://tu-portfolio.com)  
-- [✉️ Email](mailto:tuemail@example.com)  
+## 🌍 Conéctate conmigo 
+- [✉️ Email](mailto:jcxsystems@gmail.com)  
 
 ---
 
